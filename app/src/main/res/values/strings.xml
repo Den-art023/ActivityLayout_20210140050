@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">First Project</string>
+    <string name="nama">Den</string>
+    <string name="no_hp">087722720522</string>
+    <string name="button">Scan Me</string>
+    <string name="web">www.jcodelivery.com</string>
+    <string name="judul">WEEKLY PROMOTION</string>
+    <string name="date">1 - 7 October 20023</string>
+    <string name="only">*only</string>
+    <string name="harga">50</string>
+    <string name="satuan">RIBU</string>
+    <string name="tap">TAP TO ORDER</string>
+    <string name="link">JCO.ID</string>
+    <string name="tap1">Select to Order</string>
+    <string name="submit">Submit</string>
+    <string name="address">Address</string>
+    <string name="phone">Phone </string>
+    <string name="tuan">Fill in the Name</string>
+</resources>
